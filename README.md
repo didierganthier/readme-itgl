@@ -6,6 +6,7 @@ In this repository we will handle homeworks for IT Granmoun Lekol. The groups ar
 - Alphonse Petit-frère
 - Hélène Augustmat
 - Mario Boyer
+- Dara Albert
 
 ### **Group 2: Leader - Nathalie Juste**
 **Members:**
@@ -23,7 +24,6 @@ In this repository we will handle homeworks for IT Granmoun Lekol. The groups ar
 
 ### **Group 4: Leader - Wilbert Georges**
 **Members:**
-- Dara Albert
 - Vladimy Laurore
 - Beaupage Robens
 - Lejeune Bauvil
