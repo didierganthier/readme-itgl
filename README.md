@@ -10,10 +10,10 @@ In this repository we will handle homeworks for IT Granmoun Lekol. The groups ar
 
 ### **Group 2: Leader - Nathalie Juste**
 **Members:**
+- Marjorie Pierre
 - Joseph M
 - Ken Georges
 - Frantz Paulemon
-- John François
 
 ### **Group 3: Leader - Hans Dimitri Vassor**
 **Members:**
@@ -30,7 +30,7 @@ In this repository we will handle homeworks for IT Granmoun Lekol. The groups ar
 
 ### **Group 5: Leader - Fedy Jean Pierre**
 **Members:**
-- Marjorie Pierre
+- John François
 - Wilfrid Miceus
 - Jean Louis Mesidor
 
