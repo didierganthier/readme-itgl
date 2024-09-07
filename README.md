@@ -21,6 +21,7 @@ In this repository we will handle homeworks for IT Granmoun Lekol. The groups ar
 - Lohanscul Lavilette
 - Jean Lafleur
 - Max Noelma
+- Makens Paul
 
 ### **Group 4: Leader - Wilbert Georges**
 **Members:**
